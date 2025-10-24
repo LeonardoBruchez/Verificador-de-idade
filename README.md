@@ -31,7 +31,7 @@ Este projeto foi desenvolvido como um exercício prático para solidificar o apr
 
 1.  Clone este repositório para a sua máquina.
 2.  Navegue até a pasta do projeto.
-3.  Abra o arquivo `modelo1.html` no seu navegador de preferência.
+3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
 ---
 
