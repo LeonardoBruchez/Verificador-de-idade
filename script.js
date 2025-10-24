@@ -1,4 +1,4 @@
-var btn = document.querySelector('input#btn')
+const btn = document.querySelector('#btn');
 btn.addEventListener('click',verificar)
 
 function verificar(){
